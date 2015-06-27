@@ -1,2 +1,2 @@
 # Disabled
-See [opam-coq-archive](https://github.com/coq/opam-coq-archive)
+See [opam-coq-archive](https://github.com/coq/opam-coq-archive).
